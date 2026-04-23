@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
@@ -36,4 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0079-word-search) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rizwan6566-dev/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
